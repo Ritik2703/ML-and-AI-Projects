@@ -3,7 +3,7 @@ import numpy as np
 train = pd.read_csv("train.csv")
 test = pd.read_csv("test.csv")
 
-# Building a baseline model. Predicting Sales as overall average sales
+# Building a baseline model, Predicting Sales as overall average sales
 # Determine mean of the output column:
 mean_sales = train['Item_Outlet_Sales'].mean()
 #Initialize submission dataframe with ID varaibles
