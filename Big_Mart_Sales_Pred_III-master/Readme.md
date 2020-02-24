@@ -21,4 +21,4 @@ The train and test data, which can be found at the link given above, contain the
 | Outlet_Location_Type | Type of city in which store is located|
 | Outlet_Type | Grocery store or some sort of supermarket|
 | Item_Outlet_Sales| Sales of product in particular store. This is the outcome variable to be predicted.|
-# Big_Mart_Sales_Pred_III
+# Big_Mart_Sales Prediction
