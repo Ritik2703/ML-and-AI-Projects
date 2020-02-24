@@ -1,3 +1,6 @@
+// RITIK DAGAR
+// RADHA KRISHNA
+
 ML - MNIST K-NN classification
 -----------------------
 
